@@ -1,6 +1,5 @@
 from fastapi import FastAPI
 
-
 def create_application():
     application = FastAPI()
     return application
